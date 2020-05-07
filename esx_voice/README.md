@@ -1,20 +1,17 @@
-# esx_voice
+# fxserver-esx_voice
 FXServer ESX Voice Version+
 
+### INSTALATION
 
-#### Description
-This is a proximity voice controller script. The default control for this is `Left Shift + H` (QWERTY).
+- CD in your resources folder
+- Add this into your server.cfg
 
-#### Installation
+```
+start esx_voice
+```
 
-1) Add `start esx_voice` to your server.cfg
-2) Delete cache folder in server-data
+- Delete the cache folder in your server-data
 
-
-#### Credits
-Original Script by [aabbfive](https://github.com/aabbfive/voicecontroller)
-Modified Script by [NyxonDev](https://github.com/NyxonDev)
-
-
-###You can not sell and distribute this script without my knowledge!
-###It's forbidden!
+### Credits
+- Original Script by [aabbfive](https://github.com/aabbfive)
+- Modified Script by [goldblack](https://github.com/goldblackk)
