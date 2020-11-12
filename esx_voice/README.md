@@ -14,4 +14,4 @@ start esx_voice
 
 ### Credits
 - Original Script by [aabbfive](https://github.com/aabbfive)
-- Modified Script by [goldblack](https://github.com/goldblackk)
+- Modified Script by [Nyxon](https://github.com/Nyxonn)
